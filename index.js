@@ -1,5 +1,4 @@
-/* -----------------------------------------------
-/* Author : Vincent Garreau  - vincentgarreau.com
+/* ----------------------------------------------*/
 /* MIT license: https://opensource.org/licenses/MIT
 /* GitHub : https://github.com/VincentGarreau/particles.js
 /* How to use? : Check the GitHub README
